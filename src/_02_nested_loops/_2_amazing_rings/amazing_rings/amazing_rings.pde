@@ -1,10 +1,10 @@
 
 void setup() {
-  
+  size(500, 500);
 }
 
 void draw() {
-  
+  ellipse(250, 250, 450, 450);
   // Go to the recipe to run the demonstration before starting this program
   
   /*

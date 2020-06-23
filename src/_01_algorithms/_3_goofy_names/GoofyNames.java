@@ -22,7 +22,6 @@ System.out.println(userName.length());
 			// 4. Create a String variable to store the next character of the name
 int nextName = (userName.length());
 			//    using .substring(start, end)
-userName.substring(beginIndex, endIndex);
 			//    HINT: replace 'start' and 'end' to get String with character at i 
 			
 			// 5. Use MODULO to set this variable to upper case for EVEN characters
